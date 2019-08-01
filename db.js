@@ -4,7 +4,7 @@
 var mongoose = require("mongoose");
 
 var URL =
-  "mongodb+srv://huynhnhu:Huynhnhutran@72@myqldh-j9yde.mongodb.net/test?retryWrites=true&w=majority";
+  "mongodb+srv://huynhnhu:nhuheo@cluster0-uxq7m.mongodb.net/test?retryWrites=true&w=majority";
 
 mongoose.set("useFindAndModify", false);
 
