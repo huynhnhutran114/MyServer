@@ -3,7 +3,8 @@
 
 var mongoose = require("mongoose");
 
-var URL = "mongodb://127.0.0.1:27017/QuanLi";
+var URL =
+  "mongodb+srv://huynhnhu:Huynhnhutran@72@myqldh-j9yde.mongodb.net/test?retryWrites=true&w=majority";
 
 mongoose.set("useFindAndModify", false);
 
